@@ -1,0 +1,26 @@
+_repo: The-Threshold-Grace--13-Meditations-in-the-Psalms_13267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ainsworth, Percy C. (Percy Clough)
+    birthdate: 1873
+    deathdate: 1909
+    gutenberg_agent_id: '4967'
+    url: http://www.gutenberg.org/2009/agents/4967
+description: ''
+gutenberg_issued: '2004-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Psalms -- Meditations'
+title: 'The Threshold Grace: Meditations in the Psalms'
+url: http://www.gutenberg.org/ebooks/13267
