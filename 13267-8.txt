@@ -12,7 +12,7 @@ Author: Percy C. Ainsworth
 
 Release Date: August 24, 2004 [EBook #13267]
 
-Language: ASCII
+Language: English
 
 Character set encoding: ISO-8859-1
 
